@@ -22,7 +22,10 @@
 - [浅拷贝 shallowClone](./src/JavaScriptTool/shallowClone.js)
 - [实现 jsonp](./src/JavaScriptTool/jsonp.js)
 - [数组拍平 flatArray](./src/JavaScriptTool/flatArray.js)
+- [数组去重 uniqueArr](./src/JavaScriptTool/uniqueArr.js)
 - [统一获取类型 getType](./src/JavaScriptTool/getType.js)
+- [实现 sleep](./src/JavaScriptTool/sleep.js)
+- [实现 delay](./src/JavaScriptTool/delay.js)
 
 ## 数据结构与算法
 
