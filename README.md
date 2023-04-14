@@ -31,6 +31,12 @@
 
 - [预加载 preload](./src/scene/preload.js)
 - [异步任务调度器 Scheduler](./src/scene/Scheduler.js)
+- [红绿灯 light](./src/scene/light.js)
+
+### 常见场景题
+
+- [预加载 preload](./src/scene/preload.js)
+- [异步任务调度器 Scheduler](./src/scene/Scheduler.js)
 - [红绿灯](./src/scene/light.js)
 
 ## 数据结构与算法
