@@ -27,6 +27,12 @@
 - [实现 sleep](./src/JavaScriptTool/sleep.js)
 - [实现 delay](./src/JavaScriptTool/delay.js)
 
+### 常见场景题
+
+- [预加载 preload](./src/scene/preload.js)
+- [异步任务调度器 Scheduler](./src/scene/Scheduler.js)
+- [红绿灯]
+
 ## 数据结构与算法
 
 ### 排序算法
