@@ -13,6 +13,9 @@
 - [手写 Promise.all](./src/JavaScript/PromiseAll.js)
 - [手写 Promise.race](./src/JavaScript/PromiseRace.js)
 - [手写 Promise.allSettled](./src/JavaScript/PromiseAllSettled.js)
+- [手写 forEach](./src/JavaScript/forEach.js)
+- [手写 map](./src/JavaScript/map.js)
+- [手写 filter](./src/JavaScript/filter.js)
 
 ### JavaScript 工具
 
