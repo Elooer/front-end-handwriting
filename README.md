@@ -29,6 +29,8 @@
 - [统一获取类型 getType](./src/JavaScriptTool/getType.js)
 - [实现 sleep](./src/JavaScriptTool/sleep.js)
 - [实现 delay](./src/JavaScriptTool/delay.js)
+- [驼峰字符串转短横线](./src/JavaScriptTool/toCamel.js)
+- [短横线字符串转驼峰](./src/JavaScriptTool/toUnderline.js)
 
 ### 常见场景题
 
