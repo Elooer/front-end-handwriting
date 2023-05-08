@@ -1,3 +1,4 @@
+// 单例
 class Singleton {
   constructor(name, age) {
     this.name = name

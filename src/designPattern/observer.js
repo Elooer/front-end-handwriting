@@ -1,3 +1,4 @@
+// 观察者
 class Subject {
   constructor() {
     this.Observers = [];

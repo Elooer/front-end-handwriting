@@ -63,3 +63,7 @@
 - [层序遍历 N 叉树](./src/tree/traversalMultipleTree.js)
 
 ## 设计模式
+
+- [发布订阅模式](./src/designPattern/eventEmitter.js)
+- [观察者模式](./src/designPattern/observer.js)
+- [单例模式](./src/designPattern/singleton.js)
