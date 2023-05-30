@@ -31,6 +31,7 @@
 - [实现 delay](./src/JavaScriptTool/delay.js)
 - [驼峰字符串转短横线](./src/JavaScriptTool/toCamel.js)
 - [短横线字符串转驼峰](./src/JavaScriptTool/toUnderline.js)
+- [LRU 缓存算法](./src/JavaScriptTool/lruCache.js)
 
 ### 常见场景题
 
@@ -43,6 +44,7 @@
 - [预加载 preload](./src/scene/preload.js)
 - [异步任务调度器 Scheduler](./src/scene/Scheduler.js)
 - [红绿灯 light](./src/scene/light.js)
+- [大数相加 bigSum](./src/scene/bigSum.js)
 
 ## 数据结构与算法
 
