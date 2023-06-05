@@ -16,6 +16,7 @@
 - [手写 forEach](./src/JavaScript/forEach.js)
 - [手写 map](./src/JavaScript/map.js)
 - [手写 filter](./src/JavaScript/filter.js)
+- [手写 reduce](./src/JavaScript/reduce.js)
 
 ### JavaScript 工具
 
@@ -38,6 +39,9 @@
 - [预加载 preload](./src/scene/preload.js)
 - [异步任务调度器 Scheduler](./src/scene/Scheduler.js)
 - [红绿灯 light](./src/scene/light.js)
+- [控制并发请求](./src//scene/request.js)
+- [大数相加](./src/scene/bigSum.js)
+- [大数相减](./src/scene/bigSub.js)
 
 ### 常见场景题
 
