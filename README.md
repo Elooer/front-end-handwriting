@@ -13,6 +13,7 @@
 - [手写 Promise.all](./src/JavaScript/PromiseAll.js)
 - [手写 Promise.race](./src/JavaScript/PromiseRace.js)
 - [手写 Promise.allSettled](./src/JavaScript/PromiseAllSettled.js)
+- [手写 Promise.any](./src/JavaScript/PromiseAny.js)
 - [手写 forEach](./src/JavaScript/forEach.js)
 - [手写 map](./src/JavaScript/map.js)
 - [手写 filter](./src/JavaScript/filter.js)
@@ -26,6 +27,7 @@
 - [浅拷贝 shallowClone](./src/JavaScriptTool/shallowClone.js)
 - [实现 jsonp](./src/JavaScriptTool/jsonp.js)
 - [数组拍平 flatArray](./src/JavaScriptTool/flatArray.js)
+- [对象拍平 flatObject](./src/JavaScriptTool/flatObject.js)
 - [数组去重 uniqueArr](./src/JavaScriptTool/uniqueArr.js)
 - [统一获取类型 getType](./src/JavaScriptTool/getType.js)
 - [实现 sleep](./src/JavaScriptTool/sleep.js)
@@ -33,6 +35,7 @@
 - [驼峰字符串转短横线](./src/JavaScriptTool/toCamel.js)
 - [短横线字符串转驼峰](./src/JavaScriptTool/toUnderline.js)
 - [LRU 缓存算法](./src/JavaScriptTool/lruCache.js)
+- [柯里化 curry](./src/JavaScriptTool/curry.js)
 
 ### 常见场景题
 
@@ -42,6 +45,7 @@
 - [控制并发请求](./src//scene/request.js)
 - [大数相加](./src/scene/bigSum.js)
 - [大数相减](./src/scene/bigSub.js)
+- [封装 fetch fetchRetry](./src/scene/fetchRetry.js)
 
 ### 常见场景题
 
