@@ -42,17 +42,12 @@
 - [预加载 preload](./src/scene/preload.js)
 - [异步任务调度器 Scheduler](./src/scene/Scheduler.js)
 - [红绿灯 light](./src/scene/light.js)
-- [控制并发请求](./src//scene/request.js)
+- [并发请求控制](./src//scene/request.js)
 - [大数相加](./src/scene/bigSum.js)
 - [大数相减](./src/scene/bigSub.js)
 - [封装 fetch fetchRetry](./src/scene/fetchRetry.js)
-
-### 常见场景题
-
-- [预加载 preload](./src/scene/preload.js)
-- [异步任务调度器 Scheduler](./src/scene/Scheduler.js)
-- [红绿灯 light](./src/scene/light.js)
-- [大数相加 bigSum](./src/scene/bigSum.js)
+- [树转数组 treeToList](./src/scene/treeToList.js)
+- [数组转树 listToTree](./src/scene/listToTree.js)
 
 ## 数据结构与算法
 
