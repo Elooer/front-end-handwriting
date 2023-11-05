@@ -42,6 +42,7 @@
 - [预加载 preload](./src/scene/preload.js)
 - [异步任务调度器 Scheduler](./src/scene/Scheduler.js)
 - [红绿灯 light](./src/scene/light.js)
+- [LazyMan](./src/scene/LazyMan.js)
 - [并发请求控制](./src//scene/request.js)
 - [大数相加](./src/scene/bigSum.js)
 - [大数相减](./src/scene/bigSub.js)
